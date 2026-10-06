@@ -1,0 +1,4 @@
+log/
+knowledge/evals/*/
+*.bak*
+__pycache__/
