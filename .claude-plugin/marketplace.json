@@ -1,0 +1,13 @@
+{
+  "name": "martha",
+  "owner": {
+    "name": "Martha maintainers"
+  },
+  "plugins": [
+    {
+      "name": "martha",
+      "source": "./",
+      "description": "Martha: an honest, evidence-driven sales agent with a blind-judged improvement loop."
+    }
+  ]
+}

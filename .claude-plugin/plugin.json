@@ -1,0 +1,10 @@
+{
+  "name": "martha",
+  "version": "1.0.0",
+  "description": "Martha: an honest, evidence-driven sales agent for Claude Code. Cold email, follow-ups, replies, LinkedIn notes, call scripts and objection handling, plus a blind-judged improvement loop.",
+  "author": {
+    "name": "Caleb Cruz"
+  },
+  "license": "MIT",
+  "keywords": ["sales", "cold-email", "copywriting", "agents"]
+}
